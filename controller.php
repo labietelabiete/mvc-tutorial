@@ -14,4 +14,4 @@ switch ($page_action) {
     }
 }
 
-include 'view.php';
+include 'index.php';
